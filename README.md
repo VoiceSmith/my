@@ -1,6 +1,6 @@
 <!-- Theme:Classic, ImgAlign:Left Widget:NAVI-->
 # Let's Speak to Lead
-Speaking well is more than just words, it's about connecting, influencing, and making an impact. Whether you're addressing a crowd or having a one-on-one conversation, effective communication opens doors.
+Transform your communication skills and make an impact. Whether addressing a crowd or having a one-on-one conversation, effective communication opens doors.
 
 ---
 
