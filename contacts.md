@@ -3,7 +3,7 @@ Have any questions? Feel free to reach out!
 
 - https://www.youtube.com/@yoursandeep
 - https://www.linkedin.com/in/sandeepsahoo
-- [Bloggers / Publishers](https://interviewdose.com/contacts)
+- [Creators / Engineers](https://interviewdose.com/contacts)
 
 **Need help ?**
 
