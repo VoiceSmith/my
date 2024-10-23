@@ -10,7 +10,7 @@ Whether addressing a crowd or having a one-on-one conversation, effective commun
 
 ---
 
-## Unlock your confidence
+## Unlock Your Speaking Potential
 Transform your communication skills and make an impact.  
 Whether addressing a crowd or having a one-on-one conversation, effective communication opens doors.
 
