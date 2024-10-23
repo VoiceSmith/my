@@ -1,7 +1,8 @@
 <!-- Theme:Classic, ImgAlign:Left Widget:NAVI-->
 # Let's Speak to Lead!
 
-Transform your communication skills and make an impact. 
+Transform your communication skills and make an impact.  
+Whether addressing a crowd or having a one-on-one conversation, effective communication opens doors.
 
 ---
 
