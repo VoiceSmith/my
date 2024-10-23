@@ -5,7 +5,7 @@ Whether addressing a crowd or having a one-on-one conversation, effective commun
 
 ---
 
-<img alt="Speak With Confidence" src="https://github.com/user-attachments/assets/37c4a00d-1e00-43ac-8cd6-65507442dfc8">
+![Speak With Confidence](https://github.com/user-attachments/assets/37c4a00d-1e00-43ac-8cd6-65507442dfc8)
 
 ---
 
