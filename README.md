@@ -1,11 +1,16 @@
 <!-- Theme:Classic, ImgAlign:Left Widget:NAVI-->
 # Let's Speak to Lead!
 
+---
+
 ![Speak With Confidence](https://github.com/user-attachments/assets/37c4a00d-1e00-43ac-8cd6-65507442dfc8)
+
+Transform your communication skills and make an impact.
+Whether addressing a crowd or having a one-on-one conversation, effective communication opens doors.
 
 ---
 
-# Build your communication
+# Unlock your confidence
 Transform your communication skills and make an impact.  
 Whether addressing a crowd or having a one-on-one conversation, effective communication opens doors.
 
