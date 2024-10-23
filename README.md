@@ -5,10 +5,6 @@ Whether addressing a crowd or having a one-on-one conversation, effective commun
 
 ---
 
-## Communicate with Confidence!
-
-Good communication can change everything. Navi is designed to help you speak clearly, confidently, and effectively—whether you're preparing for a presentation, an interview, or daily conversations.
-
 ### Why Use VoiceSmith ?
 
 - **Practice Speaking:** Improve your ability to express thoughts clearly.
@@ -16,7 +12,6 @@ Good communication can change everything. Navi is designed to help you speak cle
 - **Boost Your Confidence:** Gain the skills to communicate with ease.
 
 # Ready to Get Started?
-
 Let us speak to lead!  
 Start today and become a more confident, effective communicator!
 
