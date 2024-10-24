@@ -1,9 +1,9 @@
 ## Contact Us
 Have any questions? Feel free to reach out!  
 
-- https://www.youtube.com/@yoursandeep
+- https://www.youtube.com
 - https://www.linkedin.com/in/sandeepsahoo
-- [Creators / Speakers](https://interviewdose.com/contacts)
+- [Creators / Speakers](https://topmate.io/ersandeep/644263)
 
 **Need help ?**
 
