@@ -1,6 +1,14 @@
 <!-- Theme:Classic, ImgAlign:Left Widget:NAVI-->
 # Let's Speak to Lead!
 
+Transform your communication skills and make an impact.  
+Whether addressing a crowd or having a one-on-one conversation, effective communication opens doors.
+
+---
+
+![Speak With Confidence](https://github.com/user-attachments/assets/7030b216-8faa-4442-9564-a03b64455614)
+
+
 ---
 
 <div id="phWidget"></div>
